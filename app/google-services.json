@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042592965009",
+    "firebase_url": "https://twelfthman-5b453.firebaseio.com",
+    "project_id": "twelfthman-5b453",
+    "storage_bucket": "twelfthman-5b453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042592965009:android:a9595f8539e18dab",
+        "android_client_info": {
+          "package_name": "test.labs.twelfthman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042592965009-s79ctuuda4bf5sqo9d0oh52pndknv3cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFo9aMupPOUaiPCGJ_KcpZHiWYTf9ReC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

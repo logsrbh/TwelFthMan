@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homee"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_foot"
+            android:icon="@drawable/football"
+            android:title="Football" />
+        <item
+            android:id="@+id/nav_cric"
+            android:icon="@drawable/cricket"
+            android:title="Cricket" />
+        <item
+            android:id="@+id/nav_other"
+            android:icon="@drawable/others"
+            android:title="Others" />
+        <item
+            android:id="@+id/nav_more"
+            android:icon="@drawable/more"
+            android:title="More" />
+        <item
+            android:id="@+id/nav_fan"
+            android:icon="@drawable/fanzone"
+            android:title="Fan Zone"/>
+        <item
+            android:id="@+id/nav_sign"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Sign In"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_cont"
+                android:icon="@drawable/contact"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>
